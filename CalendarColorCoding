@@ -1,0 +1,34 @@
+<style type="text/css">
+/* Title box and body frame formatting */
+.ms-bodyareaframe {padding: 0px;}
+/* Do not show any timestamps */
+/* .ms-acal-time{display:none;} */
+/* Title font and background color formatting */
+.ms-acal-color{
+BACKGROUND-COLOR: #000000
+}
+.ms-acal-selcolor{
+BACKGROUND-COLOR: #000000
+}
+.ms-acal-apanel-color{
+BORDER-COLOR: #C3B7AC; BACKGROUND-COLOR: #000000;
+}
+.ms-acal-color1{
+BACKGROUND-COLOR: #e20074
+}
+.ms-acal-selcolor1{
+BACKGROUND-COLOR: #e20074
+}
+.ms-acal-apanel-color1{
+BORDER-COLOR: #C3B7AC; BACKGROUND-COLOR: #e20074;
+}
+.ms-acal-color4{
+BACKGROUND-COLOR: #555555
+}
+.ms-acal-selcolor4{
+BACKGROUND-COLOR: #555555
+}
+.ms-acal-apanel-color4{
+BORDER-COLOR: #C3B7AC; BACKGROUND-COLOR: #555555;
+}
+</style>
