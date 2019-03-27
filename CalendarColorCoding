@@ -22,13 +22,13 @@ BACKGROUND-COLOR: #e20074
 .ms-acal-apanel-color1{
 BORDER-COLOR: #C3B7AC; BACKGROUND-COLOR: #e20074;
 }
-.ms-acal-color4{
+.ms-acal-color2{
 BACKGROUND-COLOR: #555555
 }
-.ms-acal-selcolor4{
+.ms-acal-selcolor2{
 BACKGROUND-COLOR: #555555
 }
-.ms-acal-apanel-color4{
+.ms-acal-apanel-color2{
 BORDER-COLOR: #C3B7AC; BACKGROUND-COLOR: #555555;
 }
 </style>
